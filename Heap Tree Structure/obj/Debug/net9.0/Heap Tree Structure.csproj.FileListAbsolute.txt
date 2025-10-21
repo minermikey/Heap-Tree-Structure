@@ -1,0 +1,14 @@
+/Users/michaelsingh/Heap Tree Structure/bin/Debug/net9.0/Heap Tree Structure
+/Users/michaelsingh/Heap Tree Structure/bin/Debug/net9.0/Heap Tree Structure.deps.json
+/Users/michaelsingh/Heap Tree Structure/bin/Debug/net9.0/Heap Tree Structure.runtimeconfig.json
+/Users/michaelsingh/Heap Tree Structure/bin/Debug/net9.0/Heap Tree Structure.dll
+/Users/michaelsingh/Heap Tree Structure/bin/Debug/net9.0/Heap Tree Structure.pdb
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.AssemblyInfoInputs.cache
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.AssemblyInfo.cs
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.csproj.CoreCompileInputs.cache
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.dll
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/refint/Heap Tree Structure.dll
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.pdb
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/Heap Tree Structure.genruntimeconfig.cache
+/Users/michaelsingh/Heap Tree Structure/obj/Debug/net9.0/ref/Heap Tree Structure.dll
